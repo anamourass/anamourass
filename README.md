@@ -196,8 +196,5 @@ width="30px"/>
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Anamoura&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-    
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
