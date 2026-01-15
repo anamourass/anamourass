@@ -18,6 +18,10 @@ Me chamo Ana Carolina Moura, tenho 36 anos e sou natural de Belém do Pará, mor
     <a href="https://www.linkedin.com/in/ana-carolina-moura-b33b7277/">
       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+       </a>
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+     </a>
   </p>
         <br>
         <br>
@@ -192,3 +196,8 @@ width="30px"/>
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Anamoura&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
+    
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
