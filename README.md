@@ -115,6 +115,68 @@ width="30px"
 style="padding-right: 10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
+<div align="left">  
+<a href="https://www.typescriptlang.org/" target="_blank"><img 
+style="padding-right: 10px"
+alt="TypeScript"
+width="30px" 
+src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg"
+/>                                                            
+<a href="https://www.mongodb.com/" target="_blank">
+<img align="left" 
+style="padding-right: 10px" 
+width="30px"
+alt="MongoDB"
+src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" />  
+    
+<a href="https://nodejs.org/" target="_blank">
+<img align="left"
+style="padding-right: 10px"
+width="30px"
+alt="Node.js"
+src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" /> 
+                                    
+<a href="https://github.com/" target="_blank">
+<img align="left" 
+alt="Git"
+width="30px"
+style="padding-right: 10px" 
+src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" width="30px" />
+                                               
+
+<a href="https://www.gnu.org/software/bash/" target="_blank">
+<img align="left" 
+    alt="Bash"
+    width="30px"
+style="padding-right: 10px"
+src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" /> 
+
+<a href="https://angular.io/" target="_blank">
+<img align="left" 
+style="padding-right: 10px"
+ alt="Angular"
+ width="30px"
+src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" />
+                                        
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank">
+<img align="left" 
+style="padding-right: 10px" 
+src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" 
+width="30px"/>
+    
+<a href="https://www.docker.com/" target="_blank"><img align="left" style="padding-right: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" width="30px" />
+<a href="https://www.mysql.com/" target="_blank"><img align="left"  style="padding-right: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" width="30px"/> 
+<a href="https://about.gitlab.com/" target="_blank"><img align="left" style="padding-right: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" width="30px" /> 
+<a href="https://kafka.apache.org/" target="_blank"><img align="left"  style="padding-right: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_kafka-icon.svg" alt="Kafka" width="30px" />
+<a href="https://www.oracle.com/in/index.html" target="_blank"><img align="left" style="padding-right: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" width="30px" /> 
+<a href="https://www.android.com/intl/en_in/" target="_blank"><img align="left" style="padding-right: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" width="30px" />
+<a href="https://vuejs.org/" target="_blank"><img align="left" style="padding-right: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" width="30px" />
+<a href="https://www.postgresql.org/" target="_blank"><img align="left" style="padding-right: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="30" />
+<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img align="left" style="padding-right: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="30" /> 
+<a href="https://aws.amazon.com/" target="_blank"><img align="left" style="padding-right: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="30" />  
+<a href="https://azure.microsoft.com/en-in/" target="_blank"><img align="left" style="padding-right: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="30" />  
+<a href="https://cassandra.apache.org/_/index.html" target="_blank"><img align="left" style="padding-right: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_cassandra-icon.svg" alt="Cassandra" height="30" />  
+</div>
 
 <br/>
 <br/>
