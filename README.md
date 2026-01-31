@@ -9,7 +9,7 @@
 
 Me chamo Ana Carolina Moura, sou natural de Belém do Pará, morando em Olinda/PE. Sou profissional em transição de carreira da área da saúde para a tecnologia, formada em Análise e Desenvolvimento de Sistemas (ADS) e apaixonada por desenvolvimento web e soluções orientadas a dados.
 Tenho experiência prática em projetos utilizando Java, JavaScript, Angular, Spring Boot, Django e SQL, além de conhecimentos em APIs, Cloud (Azure) e bancos de dados relacionais e não relacionais.
-Trago comigo habilidades como pensamento crítico, resolução de problemas, lógica analítica, criatividade, adaptabilidade e comunicação, desenvolvidas tanto na tecnologia quanto na minha formação inicial na área da saúde — o que me permite ter uma visão mais humana e estratégica na construção de soluções.
+Trago comigo habilidades como pensamento crítico, resolução de problemas, lógica analítica, criatividade, adaptabilidade e comunicação, desenvolvidas tanto na tecnologia quanto na minha formação inicial na área da saúde, o que me permite ter uma visão mais humana e estratégica na construção de soluções.
 Atualmente, busco uma oportunidade como Desenvolvedora Júnior, com foco em aprendizado contínuo, colaboração em equipe e entregas de valor através da tecnologia.
 <br>
 <br>
